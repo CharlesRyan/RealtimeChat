@@ -1,0 +1,22 @@
+{
+    "data": [
+    {
+        "user": "Geoff",
+        "message": "Hi everybody! I hope you're all doing super well!",
+        "timestamp": 1543423174120,
+        "sentiment": 17
+    },
+    {
+        "user": "Gruff",
+        "message": "I'm doing terrible. I'm angry and I resent the assumption of wellbeing.",
+        "timestamp": 1543423174121,
+        "sentiment": -17
+    },
+    {
+        "user": "Mike",
+        "message": "I'm doing just OK.",
+        "timestamp": 1543423174122,
+        "sentiment": 0
+    }
+    ]
+}
